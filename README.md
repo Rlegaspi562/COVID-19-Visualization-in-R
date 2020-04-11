@@ -23,7 +23,7 @@ R Programming Language
 Jupyter Notebook
 
 Findings:
-- The number of new COVID-19 Cases are increasing at an exponential rate
-- Whilst China was reaching its apex, the rest of the world was slowly increasing at an exponential rate
-- Siginificant politcal decisions and the way countries reports its data are important factors in the increase of new cases
+- The number of new COVID-19 Cases are increasing at an exponential rate.
+- Whilst China was reaching its apex, the rest of the world was slowly increasing at an exponential rate.
+- Politcal decisions and the way countries report its data play significant roles in the increase of new cases.
 - At the time of the release of this data, not all countries are hit equally and should observe the tremendous rate it is taking toll in countries such as Italy, Iran, and South Korea.
