@@ -1,5 +1,5 @@
 # COVID-19-Visualization-in-R
-Using a project from datacamp to practice ggplot visualizations while exploring recent COVID-19 data pulled on MARCH 17, 2020
+Practicing ggplot visualizations while exploring recent COVID-19 data pulled on MARCH 17, 2020
 
 Data Sources: https://github.com/RamiKrispin/coronavirus
 
